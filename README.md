@@ -1,5 +1,5 @@
 # snyk_public_python
-Python function allowing to retrieve all the available information about a module from snyk in a machine-readable form
+Python function allowing to retrieve all the available information about a module from snyk in a machine-readable form. Allows to retrieve information about open-source modules, available in package managers supported by snyk.io. I use it for research purposes. 
 ## Requirements: 
 #### Node.js snyk module (install it globally using Node.js CLI - described on snyk.io)
 #### Added Node.js destination to PATH environment variable (C:\CSPA17\NodeJS\)
