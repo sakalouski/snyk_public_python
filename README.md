@@ -8,4 +8,4 @@ Python function allowing to retrieve all the available information about a modul
 #### Naked module for python - allows to run JS code in python (pip install Naked)
 
 ## How to use:
-There is a Jupyter Notebook script with comments. Please let me know if anything is unclear. 
+There is a Jupyter Notebook script with comments. Please let me know if anything is unclear. Additionally, multithreading may be added to query - I use 24 threads.
